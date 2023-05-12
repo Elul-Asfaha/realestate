@@ -1,4 +1,4 @@
-import { BsPlayCircle } from "react-icons/bs";
+import { AiOutlinePlayCircle } from "react-icons/ai";
 
 const Home = () => {
     return (
@@ -19,7 +19,7 @@ const Home = () => {
                     see out case studies
                 </div>
                 <div className='capitalize py-2 px-4 border border-black rounded-full flex items-center justify-center gap-2'>
-                    <BsPlayCircle /> watch a demo
+                    <AiOutlinePlayCircle className='text-2xl' /> watch a demo
                 </div>
             </div>
         </div>
