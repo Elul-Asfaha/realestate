@@ -2,13 +2,13 @@ import { ImQuotesLeft } from "react-icons/im";
 import landscape from "../assets/landscape.png";
 const Testomonies = () => {
     return (
-        <div className='flex flex-col px-[10%] pb-5 bg-gray-900 text-white min-h-[50vh]'>
-            <div className='flex flex-col gap-5 md:flex-row md:justify-between py-5'>
-                <p className='text-3xl max-w-[300px]'>
-                    Customer is our priority
+        <div className='flex flex-col px-[10%] pb-5 md:pt-5 bg-gray-900 text-white min-h-[50vh]'>
+            <div className='flex flex-col gap-5 md:flex-row md:justify-between py-5 md:px-[10%]'>
+                <p className='text-3xl md:text-6xl text-center md:text-ellipsis max-w-[400px]'>
+                    Customer are our priority
                 </p>
 
-                <p className='max-w-[250px]'>
+                <p className='max-w-[350px] text-center md:text-ellipsis'>
                     Our clients are very satisfied with out service which can be
                     understood by looking at their feedback
                 </p>

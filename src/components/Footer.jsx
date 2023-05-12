@@ -35,7 +35,7 @@ const Footer = () => {
                         <input
                             type='email'
                             placeholder='Email address'
-                            className='outline-none  shadow-md pl-2'
+                            className='outline-none md:w-[450px] shadow-md pl-2'
                             onChange={(e) => setEmail(e.target.value)}
                             value={email}
                         />
