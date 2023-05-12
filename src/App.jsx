@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Nav from "./components/Nav";
 import Home from "./components/Home";
 import Projects from "./components/Projects";
-import Testomonies from "./components/Testomonies";
+import Testimonies from "./components/Testimonies";
 import Experties from "./components/Experties";
 import Footer from "./components/Footer";
 import Burger_Menu from "./components/Burger_Menu";
@@ -22,7 +22,7 @@ function App() {
             <Home />
             <Projects />
             <Experties />
-            <Testomonies />
+            <Testimonies />
             <Footer />
         </div>
     );
