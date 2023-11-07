@@ -47,24 +47,24 @@ const Footer = () => {
                 <div className='basis-7/12 flex justify-evenly mt-5 md:mt-0'>
                     <div className='flex flex-col justify-between gap-5'>
                         <p className='font-bold'>Services</p>
-                        <p className='text-gray-400 capitalize'>
+                        <p className='text-gray-500 capitalize'>
                             email marketing
                         </p>
-                        <p className='text-gray-400 capitalize'>campaigns</p>
-                        <p className='text-gray-400 capitalize'>branding</p>
-                        <p className='text-gray-400 capitalize'>offline</p>
+                        <p className='text-gray-500 capitalize'>campaigns</p>
+                        <p className='text-gray-500 capitalize'>branding</p>
+                        <p className='text-gray-500 capitalize'>offline</p>
                     </div>
                     <div className='flex flex-col justify-between gap-5'>
                         <p className='font-bold'>About</p>
-                        <p className='text-gray-400 capitalize'>our story </p>
-                        <p className='text-gray-400 capitalize'>benefits </p>
-                        <p className='text-gray-400 capitalize'>team </p>
-                        <p className='text-gray-400 capitalize'>careers </p>
+                        <p className='text-gray-500 capitalize'>our story </p>
+                        <p className='text-gray-500 capitalize'>benefits </p>
+                        <p className='text-gray-500 capitalize'>team </p>
+                        <p className='text-gray-500 capitalize'>careers </p>
                     </div>
                     <div className='flex flex-col gap-5'>
                         <p className='font-bold'>Help</p>
-                        <p className='text-gray-400 capitalize'>FAQs</p>
-                        <p className='text-gray-400 capitalize'>contact us</p>
+                        <p className='text-gray-500 capitalize'>FAQs</p>
+                        <p className='text-gray-500 capitalize'>contact us</p>
                     </div>
                 </div>
             </div>

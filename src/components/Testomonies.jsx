@@ -15,7 +15,7 @@ const Testomonies = () => {
             </div>
             <div className='flex flex-row overflow-x-scroll scroll-smooth snap-x snap-x-mandatory'>
                 <div className='flex flex-col gap-5 md:flex-row md:gap-0 min-w-[80vw] snap-start snap-always'>
-                    <div className='flex-1 flex flex-col gap-y-5 md:border-r border-gray-400 px-5'>
+                    <div className='flex-1 flex flex-col gap-y-5 md:border-r border-gray-500 px-5'>
                         <ImQuotesLeft className='text-3x' />
                         <p className='uppercase'>really recommend for stay</p>
                         <p>
@@ -32,7 +32,7 @@ const Testomonies = () => {
                             </div>
                             <div className='flex flex-col justify-between'>
                                 <p>Yeab </p>
-                                <p className='text-gray-400 '>ASN</p>
+                                <p className='text-gray-500 '>ASN</p>
                             </div>
                         </div>
                     </div>
@@ -53,14 +53,14 @@ const Testomonies = () => {
                             </div>
                             <div className='flex flex-col justify-between'>
                                 <p>Elul Asfaha</p>
-                                <p className='text-gray-400 '>Student</p>
+                                <p className='text-gray-500 '>Student</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div className='flex flex-col gap-y-5 md:flex-row min-w-[80vw] snap-start snap-always'>
-                    <div className='flex-1 flex flex-col gap-5 md:border-r border-gray-400 px-5'>
+                    <div className='flex-1 flex flex-col gap-5 md:border-r border-gray-500 px-5'>
                         <ImQuotesLeft className='text-3x' />
                         <p className='uppercase'>really recommend for stay</p>
                         <p>
@@ -77,7 +77,7 @@ const Testomonies = () => {
                             </div>
                             <div className='flex flex-col justify-between'>
                                 <p>Yeab </p>
-                                <p className='text-gray-400 '>ASN</p>
+                                <p className='text-gray-500 '>ASN</p>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@ const Testomonies = () => {
                             </div>
                             <div className='flex flex-col justify-between'>
                                 <p>Elul Asfaha</p>
-                                <p className='text-gray-400 '>Student</p>
+                                <p className='text-gray-500 '>Student</p>
                             </div>
                         </div>
                     </div>

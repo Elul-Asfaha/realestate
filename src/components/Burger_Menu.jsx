@@ -13,7 +13,7 @@ const Burger_Menu = (props) => {
                 />
             </div>
 
-            <div className='flex flex-col text-center text-3xl text-gray-400 gap-5'>
+            <div className='flex flex-col text-center text-3xl text-gray-500 gap-5'>
                 <div>Home</div>
                 <div>Blog</div>
                 <div>Pricing</div>

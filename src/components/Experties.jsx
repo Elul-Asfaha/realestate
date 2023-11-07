@@ -40,7 +40,7 @@ const Experties = () => {
                         the best places to live in your city, according to real
                         estate agents
                     </p>
-                    <p className='text-gray-400'>
+                    <p className='text-gray-500'>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Quos odio labore animi ullam, maxime provident
                         obcaecati! Nemo, cumque, ut ipsam, illum sunt nulla

@@ -8,7 +8,7 @@ const Nav = (props) => {
                     <div className='flex'>
                         <img src={logo} alt='' className='container' />
                     </div>
-                    <div className='flex text-gray-400 gap-5'>
+                    <div className='flex text-gray-500 gap-5'>
                         <div>Home</div>
                         <div>Blog</div>
                         <div>Pricing</div>
