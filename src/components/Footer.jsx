@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logo from "../assets/Logo.png";
+import logo from "../assets/logo.png";
 import { AiOutlineArrowRight } from "react-icons/ai";
 const Footer = () => {
     const [email, setEmail] = useState(" ");
