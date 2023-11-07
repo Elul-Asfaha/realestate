@@ -12,7 +12,7 @@ const Footer = () => {
         <footer className='flex flex-col p-[5%] '>
             <div className='flex justify-between py-5 border-b border-black '>
                 <img
-                    src={Logo}
+                    src={logo}
                     alt=''
                     className='container max-w-[100px] md:max-w-[100px]'
                 />
