@@ -40,11 +40,11 @@ const Projects = () => {
                 </div>
             </div>
             <div className='basis-6/12 grid grid-cols-2 gap-5'>
-                <div className='flex  items-end'>
+                <div className='flex items-end'>
                     <img
                         src={landscape}
                         alt=''
-                        className='container h-[80%] rounded-lg'
+                        className='object-cover h-[80%] rounded-lg'
                     />
                 </div>
                 <div className='grid grid-rows-5 gap-y-5'>
@@ -52,14 +52,14 @@ const Projects = () => {
                         <img
                             src={landscape}
                             alt=''
-                            className='cover rounded-lg'
+                            className='object-cover rounded-lg'
                         />
                     </div>
                     <div className='row-start-3 row-end-7 border flex rounded-xl'>
                         <img
                             src={landscape}
                             alt=''
-                            className='cover rounded-lg'
+                            className='object-cover rounded-lg'
                         />
                     </div>
                 </div>

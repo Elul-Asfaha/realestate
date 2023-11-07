@@ -13,7 +13,7 @@ const Testimonies = () => {
                     understood by looking at their feedback
                 </p>
             </div>
-            <div className='flex flex-row overflow-x-scroll scroll-smooth snap-x snap-x-mandatory'>
+            <div className='flex  scrollbar-hide flex-row overflow-x-scroll scroll-smooth snap-x snap-x-mandatory'>
                 <div className='flex flex-col gap-5 md:flex-row md:gap-0 min-w-[80vw] snap-start snap-always'>
                     <div className='flex-1 flex flex-col gap-y-5 md:border-r border-gray-400 px-5'>
                         <ImQuotesLeft className='text-3x' />
